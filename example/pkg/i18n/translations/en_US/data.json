@@ -1,3 +1,4 @@
 {
-  "\"login error\"": "\"login error\""
+  "\"Incorrect password\"": "\"Incorrect password\"",
+  "\"Login error. username:%s not found\"": "\"Login error. username:%s not found\""
 }
